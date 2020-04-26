@@ -98,11 +98,25 @@ a {
 
 }
 
+.kinlimi {
 
+  background-color: #5dca88;
+
+  cursor: pointer;
+
+  box-shadow: 0px 7px #1a7940;
+
+  margin-right: 10px;
+
+}
 
 .facebook {
 
   background-color: #3b5998;
+
+  cursor: pointer;
+
+  box-shadow: 0px 7px #1a7940;
 
   margin-right: 10px;
 
@@ -113,6 +127,10 @@ a {
 .twitter {
 
   background-color: #55acee;
+
+  cursor: pointer;
+
+  box-shadow: 0px 7px #1a7940;
 
 }
 
@@ -330,15 +348,7 @@ header {
 
 
 
-.kinlimi {
 
-  background-color: #5dca88;
-
-  cursor: pointer;
-
-  box-shadow: 0px 7px #1a7940;
-
-}
 
 
 
